@@ -1,3 +1,5 @@
+** Intent is to update this project to be compatible with current YNH installs **
+
 subscribe_ynh
 ===============
 
